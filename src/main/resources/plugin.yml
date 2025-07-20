@@ -2,6 +2,7 @@ name: AFK
 main: org.plugin.afk.AfkPlugin
 version: 1.0
 api-version: 1.21
+author: ice
 commands:
   afk:
     description: 进入/退出挂机状态
